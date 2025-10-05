@@ -3,7 +3,6 @@ An Offline ML-Powered Mental Wellness Assistant
 
 Author: Aishwarya Priyadarshni
 Email: pdarshniaishwarya@gmail.com
-License: MIT
 Version: 4.1
 
 🌿 Overview
