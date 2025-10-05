@@ -1,0 +1,21 @@
+text,emotion
+"I am feeling great and energetic today",positive
+"I enjoyed my classes and feel motivated",positive
+"I'm okay, not much has changed",neutral
+"Today was fine",neutral
+"I have trouble sleeping and feel tired",insomnia
+"I couldn't sleep at all last night",insomnia
+"I feel nervous about exams and I am worried",anxiety
+"I'm often anxious and my heart races",anxiety
+"I feel sad and I have lost interest in things",depression
+"I can't enjoy anything, feel hopeless",depression
+"My head is stressed and I can't focus",stress
+"I'm overwhelmed by assignments and stressed",stress
+"I feel a bit down but it passes",depression
+"I feel calm and relaxed",positive
+"My sleep has been okay lately",neutral
+"I keep having insomnia at night",insomnia
+"I'm constantly worried about minor things",anxiety
+"Everything feels heavy and pointless",depression
+"I need a break, small steps help me",neutral
+"I feel hopeful about the week ahead",positive

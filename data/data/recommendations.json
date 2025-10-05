@@ -1,0 +1,8 @@
+{
+  "stress": ["Try deep breathing for 3 minutes, stretch your body, and drink water."],
+  "depression": ["Talk to someone you trust. Go for a 10-minute walk and write how you feel."],
+  "anger": ["Pause for a few seconds, count backwards from 10, and take 3 deep breaths."],
+  "fear": ["Remind yourself that fear is temporary — focus on slow, deep breathing."],
+  "happy": ["Keep it up! Do one thing that makes you smile again today."],
+  "neutral": ["Even calm days are important — maybe read something light or take a stroll."]
+}

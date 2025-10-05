@@ -1,0 +1,4 @@
+timestamp,language,label,probability,text
+2025-10-05T20:29:39.184417,english,neutral,0.50,low
+2025-10-05T20:41:18.753405,english,stress,0.60,i am feeling very stressed due to studies
+2025-10-05T20:44:36.182408,english,happy,0.41,sad
