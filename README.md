@@ -25,7 +25,7 @@ This project runs completely offline, making it both private and secure.
 
 ⚙️ Installation
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/MindTrack.git
+git clone https://github.com/Aishwaryap015/MindTrack.git
 cd MindTrack
 
 2️⃣ Create a virtual environment
